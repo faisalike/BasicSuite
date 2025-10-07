@@ -134,10 +134,5 @@ Authorization: Bearer your_jwt_token
 
 Contributions are welcome! Please fork the repository and submit a pull request.
 
-## License
-
-This project is licensed under the MIT License.
-
----
 
 **For further documentation, refer to the source code and XML comments.**
